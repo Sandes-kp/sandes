@@ -2,5 +2,10 @@ this is line 1
 this is line 2
 this is line 3 
 this is line 4
+<<<<<<< Updated upstream
 this is line 5 
 this is line 6
+=======
+this is devops
+cloud technology
+>>>>>>> Stashed changes
